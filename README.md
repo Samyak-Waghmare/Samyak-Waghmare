@@ -1,4 +1,4 @@
-### Hello there 👋, my name is Samyak Waghmare.
+<h1 align="center">Hello there 👋, my name is Samyak Waghmare.</h1>
 
 <!--
 **Samyak-Waghmare/Samyak-Waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
