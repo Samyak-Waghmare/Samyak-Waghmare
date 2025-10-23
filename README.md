@@ -27,25 +27,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border-collapse:collapse;">
+<hr>
+
+<table style="border-collapse:collapse; text-align:left;">
   <tr>
     <td><strong>Programming:</strong></td>
     <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" style="display:block;"/>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
       </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="display:block;"/>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
       </a>
-      <a href="https://www.java.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="display:block;"/>
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
       </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" style="display:block;"/>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -53,25 +51,20 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Frontend:</strong></td>
     <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="display:block;"/>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
       </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="display:block;"/>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="display:block;"/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
       </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="display:block;"/>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
       </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="display:block;"/>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -79,9 +72,8 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>UI Libraries & Frameworks:</strong></td>
     <td>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="display:block;"/>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -89,13 +81,11 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Backend:</strong></td>
     <td>
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="display:block;"/>
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
       </a>
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="display:block;"/>
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -103,13 +93,11 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Database:</strong></td>
     <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="display:block;"/>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
       </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="display:block;"/>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -117,15 +105,51 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Tools:</strong></td>
     <td>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer"
-         style="text-decoration:none!important;border-bottom:none!important;display:inline-block;line-height:0;">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="display:block;"/>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
       </a>
     </td>
   </tr>
 </table>
 
+<hr> 
 
+
+<p align="center">
+<!-- <a href="https://twitter.com/samyakwaghmare" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samyakwaghmare" height="30" width="40" />
+</a> -->
+
+<a href="https://linkedin.com/in/samyak-waghmare" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samyak-waghmare" height="30" width="40" />
+</a>
+
+<a href="https://www.codechef.com/users/samyakwaghmare" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samyakwaghmare" height="30" width="40" />
+</a>
+
+<!-- <a href="https://www.hackerrank.com/profile/waghmaresamyak11" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="waghmaresamyak11" height="30" width="40" />
+</a> -->
+
+<a href="https://codeforces.com/profile/SamyakWaghmare" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="SamyakWaghmare" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Samyak-Waghmare/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Samyak-Waghmare" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/samyakwagqptv/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samyakwagqptv" height="30" width="40" />
+</a>
+
+<!-- <a href="https://atcoder.jp/users/samyak_w" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg" alt="samyak_w" height="30" width="40" />
+</a> -->
+</p>
+
+<br/>
 <h3 align=center>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyak-Waghmare&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="Samyak-Waghmare" />  
 &nbsp;
