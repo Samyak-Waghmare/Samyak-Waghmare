@@ -7,9 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 I am **passionate about contributing to and advancing open-source initiatives as a full-stack web developer**
+  
 - 🌱 I’m currently learning **Machine Learning**
+
 - 🧑‍🤝‍🧑 I'm looking forward to **make valuable contributions to a broad spectrum of captivating projects**
+
 - 🤝 I'm eager to know about **opportunities which will help me in expanding my potential**
+
 - 📫 How to reach me **samyakwaghmare455@gmail.com**
 
 <!--
