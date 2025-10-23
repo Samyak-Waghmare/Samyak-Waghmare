@@ -27,23 +27,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <hr>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td><strong>Programming:</strong></td>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <td style="border: none;">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
       </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
       </a>
-      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
       </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
       </a>
     </td>
@@ -52,19 +51,19 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Frontend:</strong></td>
     <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
       </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
       </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
       </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
       </a>
     </td>
@@ -73,7 +72,7 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>UI Libraries & Frameworks:</strong></td>
     <td>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/>
       </a>
     </td>
@@ -82,10 +81,10 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Backend:</strong></td>
     <td>
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
       </a>
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
       </a>
     </td>
@@ -94,10 +93,10 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Database:</strong></td>
     <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
       </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
       </a>
     </td>
@@ -106,7 +105,7 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>Tools:</strong></td>
     <td>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
       </a>
     </td>
