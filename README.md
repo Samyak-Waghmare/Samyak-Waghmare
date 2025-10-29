@@ -163,15 +163,15 @@ Here are some ideas to get you started:
   <a href="https://codeforces.com/profile/SamyakWaghmare" target="_blank" title="Codeforces" style="display:inline-block; line-height:0;">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="https://www.codechef.com/users/samyakwaghmare" target="_blank" title="CodeChef" style="display:inline-block; line-height:0;">
+  <!-- <a href="https://www.codechef.com/users/samyakwaghmare" target="_blank" title="CodeChef" style="display:inline-block; line-height:0;">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/Samyak-Waghmare/" target="_blank" title="LeetCode" style="display:inline-block; line-height:0;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/samyakwagqptv/" target="_blank" title="GeeksforGeeks" style="display:inline-block; line-height:0;">
+  <!-- <a href="https://auth.geeksforgeeks.org/user/samyakwagqptv/" target="_blank" title="GeeksforGeeks" style="display:inline-block; line-height:0;">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-  </a>
+  </a> -->
 
 <!-- <a href="https://www.hackerrank.com/profile/waghmaresamyak11" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="waghmaresamyak11" height="30" width="40" />
