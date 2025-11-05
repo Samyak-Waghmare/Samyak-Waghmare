@@ -191,6 +191,6 @@ Here are some ideas to get you started:
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Waghmare&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="GitHub Stats  " />
 </h3>
-<h3 align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samyak-Waghmare&theme=tokyonight" alt="GitHub Streak" />
+<h3 align="center">
+  <img src="https://streak-stats.demolab.com?user=Samyak-Waghmare&theme=tokyonight" alt="GitHub Streak" />
 </h3>
