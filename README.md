@@ -192,5 +192,5 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Waghmare&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="GitHub Stats  " />
 </h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Samyak-Waghmare&theme=tokyonight&v=1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Samyak-Waghmare&theme=tokyonight&v=2" alt="GitHub Streak"/>
 </div>
